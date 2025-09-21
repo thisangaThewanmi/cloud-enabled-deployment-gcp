@@ -46,7 +46,6 @@ This repository contains four projects:
   - npm run build (TypeScript build + Vite build)
   - npm run preview (Preview built app)
 
-## Build
+## License
 
-- Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
-- Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
+Licensed under the MIT License.
