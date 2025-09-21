@@ -53,3 +53,10 @@ Licensed under the MIT License.
 
 ## Vedio Link
 https://drive.google.com/file/d/1vTFq_vTft6Ivsk-tqQSgtt7rIgunA2Va/view?usp=drive_link
+
+## Details
+Name : Thisanga Thewanmi Kavindya
+StudentId: 2301671099
+Email: thisangat2005@gmail.com
+
+
